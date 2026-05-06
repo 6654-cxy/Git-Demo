@@ -1,3 +1,4 @@
+<img width="2559" height="1599" alt="屏幕截图 2026-04-16 185929" src="https://github.com/user-attachments/assets/f69baeb9-fa19-4fe9-a2fd-9e8e858053ea" />
 # xxx的自我介绍
 
 <img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg" width="200" alt="个人头像">
